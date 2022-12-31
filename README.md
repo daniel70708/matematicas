@@ -1,5 +1,3 @@
-Esto es una actualización para el readme, linea de la rama 1
+# Descripcion del proyecto
 
-# Estos son cambios mínimos
-
-una nueva linea en el readme y debes de bajar los cambios 
+Repositorio de prueba para el entendimiento de git y github
